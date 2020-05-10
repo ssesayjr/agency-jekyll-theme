@@ -4,6 +4,7 @@ subtitle: EDA & Recommender
 layout: default
 modal-id: 1
 date: 2019-10-19
+img: nutritional_graph.png
 img: nutritional_B_graph.png
 thumbnail: nutritional_thumbnal_resized.jpg
 alt: image-alt

@@ -4,7 +4,7 @@ subtitle: Linear Regression Model (Supervised Learning)
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: capstone2_graphs.png
+img: technology_applied.png
 thumbnail: west_africa_trade_resized.jpg
 alt: image-alt
 project-date: April 2014

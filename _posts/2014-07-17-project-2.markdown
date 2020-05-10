@@ -7,9 +7,10 @@ date: 2020-03-12
 img: capstone3_graphs.png
 thumbnail: netflix_thumbnail_resized.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: January 2020
+tool: Python - NumPy, SciPy, Pandas, WordCloud 
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+github: https://github.com/ssesayjr/netflixClustering
+description: Netflix has an extensive and immersive catalogue of movies, tvs series, and documentaries that span various categories. Filtering through the extensive catalogue of material requires a keen understanding of the data. This project takes the library of data and leverages clustering techniques to address how movies are recommended to users based on historical movie choices.
 
 ---

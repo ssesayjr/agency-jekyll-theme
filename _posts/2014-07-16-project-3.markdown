@@ -1,6 +1,6 @@
 ---
-title: NGO Agricultural Techniques
-subtitle: Linear Regression Model (Supervised Learning) 
+title: Agricultural Trade in West Africa
+subtitle: Narrative Analytics 
 layout: default
 modal-id: 3
 date: 2020-01-15

@@ -2,7 +2,7 @@
 title: Agricultural Sustainability in West Africa
 subtitle: Narrative Analytics 
 layout: default
-modal-id: 3
+modal-id: 1
 date: 2020-01-15
 img: agricultural_trade_graphs.png
 thumbnail: agriculture_thumbnail_resized.jpg

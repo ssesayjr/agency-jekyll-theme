@@ -1,11 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Netflix Recommender
+subtitle: Recommender
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2019-12-10
+img: capstone3_graphs.png
+thumbnail: netflix_thumbnail_resized.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

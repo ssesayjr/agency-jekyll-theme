@@ -1,5 +1,5 @@
 ---
-title: Agricultural Trade in West Africa
+title: Agricultural Sustainability in West Africa
 subtitle: Narrative Analytics 
 layout: default
 modal-id: 3
@@ -7,9 +7,10 @@ date: 2020-01-15
 img: agricultural_trade_graphs.png
 thumbnail: agriculture_thumbnail_resized.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: August 2019
+tool: Python - Numpy, SciPy, Pandas
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+github: https://github.com/ssesayjr/agriculturalSustainability
+description: The initial question posed for the Analytic report and Research Proposal is to determine if smallholder agricultural farmers, businesses, and entrepreneurship are lucrative and sustainable in Sierra Leone, Senegal, Guinea-Bisaau and/or Guinea.
 
 ---

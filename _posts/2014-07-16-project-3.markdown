@@ -1,11 +1,11 @@
 ---
-title: Golden
-subtitle: Website Design
+title: NGO Agricultural Techniques
+subtitle: Linear Regression Model (Supervised Learning) 
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2020-01-15
+img: agricultural_trade_graphs.png
+thumbnail: agriculture_thumbnail_resized.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

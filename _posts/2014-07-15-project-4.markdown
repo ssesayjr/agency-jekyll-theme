@@ -7,7 +7,7 @@ date: 2014-07-15
 img: technology_applied.png
 thumbnail: west_africa_trade_resized.jpg
 alt: image-alt
-project-date: April 2014
+project-date: August 2019
 tool: Start Bootstrap
 category: Web Development
 github: https://github.com/ssesayjr/agriculturalToolAdoption

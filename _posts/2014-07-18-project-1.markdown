@@ -1,11 +1,11 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Nutritional Macro Recommender 
+subtitle: EDA & Recommender
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2019-10-19
+img: nutritional_B_graph.png
+thumbnail: nutritional_thumbnal_resized.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

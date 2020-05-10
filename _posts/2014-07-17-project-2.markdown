@@ -3,7 +3,7 @@ title: Netflix Recommender
 subtitle: Recommender
 layout: default
 modal-id: 2
-date: 2019-12-10
+date: 2020-03-12
 img: capstone3_graphs.png
 thumbnail: netflix_thumbnail_resized.jpg
 alt: image-alt

@@ -4,7 +4,7 @@ subtitle: Narrative Analytics
 layout: default
 modal-id: 3
 date: 2020-01-15
-img: agricultural_trade_graphs.png
+img: west_africa_trade_resized.jpg
 thumbnail: agriculture_thumbnail_resized.jpg
 alt: image-alt
 project-date: April 2014

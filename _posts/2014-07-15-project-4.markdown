@@ -8,9 +8,9 @@ img: technology_applied.png
 thumbnail: west_africa_trade_resized.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+tool: Start Bootstrap
 category: Web Development
-github: http://www.google.com
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+github: https://github.com/ssesayjr/agriculturalToolAdoption
+description: This project looked at the efficacy of agricultural tools, techniques, and technologies by various small holder farmers and community member. By identifying the contributing variables that influence project participants to apply/utilize an agricultural tool or technique, a predictive model was created to highlight the contributing factors of adoption in various major cities of Guinea.
 
 ---

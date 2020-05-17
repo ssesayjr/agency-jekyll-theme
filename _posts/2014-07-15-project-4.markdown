@@ -12,5 +12,6 @@ tool: Python - Numpy, SciPy, Pandas, Seaborn, etc.
 category: Web Development
 github: https://github.com/ssesayjr/agriculturalToolAdoption
 description: This project looked at the efficacy of agricultural tools, techniques, and technologies by various small holder farmers and community member introduced by an NGO. By identifying the contributing variables that influence project participants to apply/utilize an agricultural tool or technique, a predictive model was created to highlight the contributing factors of adoption in various major cities of Guinea.
+purpose: Professional
 
 ---

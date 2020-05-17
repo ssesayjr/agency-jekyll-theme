@@ -1,5 +1,5 @@
 url: https://ssesayjr.github.io
-baseurl: /profile_draft/
+baseurl: /profile/
 
 # Site settings
 title: Welcome!  
@@ -44,8 +44,8 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: google-email
-    url: samuel.sesay.jr@gmail.com
+  - title: email
+    url: mailto: samuel.sesay.jr@gmail.com
   - title: linkedin 
     url: https://www.linkedin.com/in/sbsesay/
   - title: github

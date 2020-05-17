@@ -12,5 +12,6 @@ tool: Python - Numpy, SciPy, Pandas
 category: Web Development
 github: https://github.com/ssesayjr/agriculturalSustainability
 description: The initial question posed for the Analytic report and Research Proposal is to determine if smallholder agricultural farmers, businesses, and entrepreneurship are lucrative and sustainable in Sierra Leone, Senegal, Guinea-Bisaau and/or Guinea.
+purpose: Professional
 
 ---

@@ -13,5 +13,6 @@ tool: Python - StatsModel, NumPy, Seaborn, Pandas
 category: Web Development
 github: https://github.com/ssesayjr/healthRecommendation
 description: Finding individualized macro nutritional advice to address individualized health concerns in 2020 can be daunting. This project proposed to build a recommendation system of basket goods and pricing, that address individualized health concerns (based on a metabolic panel). 
+purpose: Academic
 
 ---
